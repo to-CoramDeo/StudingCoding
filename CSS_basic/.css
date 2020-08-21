@@ -1,5 +1,9 @@
 .red{
     width: 100px;
     height: 100px;
+    /* padding : content 안에 들어가는 공간을 의미함 */
+    padding:20px;
+    /* margin : content 밖에 들어가는 공간을 의미함 */
+    margin: 20px;
     background: yellow;
 }
