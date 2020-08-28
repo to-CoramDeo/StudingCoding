@@ -6,7 +6,7 @@ div, span{
 
 div{
     background:red;
-    display: inline-block;
+    display: inline;
 }
 
 span{
